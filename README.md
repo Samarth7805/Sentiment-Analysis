@@ -3,7 +3,6 @@
 A text classification project built with Logistic Regression, TF-IDF, and Streamlit. It predicts whether a piece of text is **Positive**, **Negative**, or **Neutral** — and explains *why*.
 
 ---
-
 ## What it does
 
 You paste in a tweet, a review, or any text. The app runs it through a prediction pipeline and returns a sentiment label, a confidence score, and a reason for the prediction. The reason tells you whether the call came from the ML model or from one of the rule-based checks (negation, sarcasm, mixed sentiment).
