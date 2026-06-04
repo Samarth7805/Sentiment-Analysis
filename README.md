@@ -179,6 +179,3 @@ Evaluated on a 20% stratified hold-out split from the training data.
 
 ---
 
-## License
-
-MIT. See `LICENSE`.
