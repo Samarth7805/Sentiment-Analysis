@@ -111,7 +111,7 @@ Opens at `http://localhost:8501`.
 
 **Retrain from scratch (optional):**
 
-The pre-trained model files are already in `models/`. Only run this if you want to retrain. Note: requires the full Sentiment140 file (`training.1600000.processed.noemoticon.csv`, 145 MB) which is not in the repo.
+The pre-trained model files are already in `models/`. Only run this if you want to retrain. Note: requires the full Sentiment140 file (`training.1600000.processed.noemoticon.csv`, 145 MB) (You can download from Kaggle by searching the name of dataset)  which is not in the repo.
 
 ```bash
 python train.py
