@@ -1,7 +1,3 @@
-"""
-model.py - Model definition and smart prediction function.
-Handles: sarcasm hints, mixed sentiment, negation, confidence-based neutral
-"""
 
 import numpy as np 
 from sklearn.linear_model import LogisticRegression
